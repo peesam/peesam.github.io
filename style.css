@@ -1,12 +1,17 @@
-body{
-	background-color:#e3e3e3;
+html{
+      background:gold;
+	}
+	.shop {
+	  text-align:center;
+	  font-size: 30px;
+	  background-color:#dfeeef; 
 }
-.heading{
- background-color: red;
+button {
+	front-size:20px;
 }
-#heading{
-	background-color: yellow;
+#push{
+	background-color:yello; 
 }
-#heading{
-	background-color: yellow;
+#minus {
+	background-color: pink;
 }
